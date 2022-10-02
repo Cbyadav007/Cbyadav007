@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java for Backend Development**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, Mysql, JDBC**
 
 - 📫 How to reach me **cby19073@gmail.com**
 
